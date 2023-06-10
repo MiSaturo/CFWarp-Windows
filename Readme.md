@@ -12,12 +12,12 @@ The following two warp official client operation methods can be executed in any 
 
 Warp official client operation:
 
-1. Manual mode:
-    1. Open the warp official client first, make sure that the device ID has been generated and is closed
-    2. Double-click the "manual mode 1" file first, and generate the result.csv file after execution (the IP port can be extracted to the wireguard client)
-    3. Double-click the "Manual Mode 2" file, and copy the top IP port in the result.csv file to the window
-    4. Start the warp official client to succeed
+## Manual mode:
+1) Open the warp official client first, make sure that the device ID has been generated and is closed
+2) Double-click the "manual mode 1" file first, and generate the result.csv file after execution (the IP port can be extracted to the wireguard client)
+3) Double-click the "Manual Mode 2" file, and copy the top IP port in the result.csv file to the window
+4) Start the warp official client to succeed
 
-2. Automatic mode:
-    1. Open the warp official client first, make sure that the device ID has been generated and is closed
-    2. As demonstrated in the video tutorial (the automatic mode is likely to cause the protection software to warn that it is poisonous, just put the "automatic mode" file into the whitelist)
+## Automatic mode:
+1) Open the warp official client first, make sure that the device ID has been generated and is closed
+2) As demonstrated in the video tutorial (the automatic mode is likely to cause the protection software to warn that it is poisonous, just put the "automatic mode" file into the whitelist)
